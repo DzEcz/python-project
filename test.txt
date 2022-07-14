@@ -1,3 +1,5 @@
 testing testing..
 
-second line is here .
+second line is here.
+Awesome hocam, merhabalar,
+bu text editor üzerinden alıştırmalar yapmamıza izin verdiğiniz için teşekkür ederim.
